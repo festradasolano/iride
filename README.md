@@ -1,2 +1,1 @@
-# iride
-iRide: intelligent Rescheduling of IDentified Elephants
+# iRide: intelligent Reschedulig of IDentified Elephants
